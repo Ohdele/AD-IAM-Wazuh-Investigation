@@ -149,8 +149,9 @@ The investigation identified repeated privileged-user execution across DC1 and W
 
 ### Evidence
 
-- `Screenshots/1st-successLoginAuth.png`
-- `Screenshots/AdministratorLastExec.png`
+![First Successful Login](Screenshots/1st-successLoginAuth.png)
+
+![Administrator Last Execution](Screenshots/AdministratorLastExec.png)
 
 ### OSINT Activities
 
